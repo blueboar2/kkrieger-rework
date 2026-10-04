@@ -7,8 +7,13 @@ created by the Farbrausch team. So far I have managed to do the following:
 an unpacked version. You can find that part in the KKrunchy folder.
 - ... More to follow
 
+This repository does not include the original .kkrieger executable
+or the unpacked executable. You can get original one from
+pouet.net link below. For the unpacked version I plan to create the
+Python unpacker, but it is not ready yet. 
+
 I want to explicitly mention that this is not my original work,
-and it was originally created by Farbrausch team.
+and it was originally created by the Farbrausch team.
 The original version of the game can be downloaded from pouet.net
 (https://www.pouet.net/prod.php?which=12036).
 
@@ -20,7 +25,7 @@ or put in the public domain (stated per project)". The
 reconstructed KKrunchy unpacker is released under the same 
 terms as the original KKrunchy sources (public domain), 
 as stated in the fr_public repository in the "kkrunchy" folder, 
-(although souce code in fr_public repository is not quite same 
+(although source code in fr_public repository is not quite the same 
 as in original .kkrieger release due to different versions).
 
 Enjoy!
