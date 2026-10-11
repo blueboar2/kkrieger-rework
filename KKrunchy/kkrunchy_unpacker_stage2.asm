@@ -690,7 +690,7 @@ import_table:
 
 	DB 5 DUP(0)
 
-; Comments below are assuming you use file 375399-byte file obtained during the
+; Comments below are assuming you use file 375395-byte file obtained during the
 ; stage 1 unpacking
 segments_tables:
 
