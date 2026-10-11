@@ -176,5 +176,5 @@ while True:
 			copy_previous_displacement()
 	special_flow = 4
 
-with open('kkrunchy_unpack_part1.out', 'wb') as f:
+with open('kkrunchy_unpacker_stage1.out', 'wb') as f:
         f.write(bytes(result))

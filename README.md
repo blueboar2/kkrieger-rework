@@ -8,9 +8,9 @@ an unpacked version. You can find that part in the KKrunchy folder.
 - ... More to follow
 
 This repository does not include the original .kkrieger executable
-or the unpacked executable. You can get original one from
-pouet.net link below. For the unpacked version I plan to create the
-Python unpacker, but it is not ready yet. 
+You can get original one from pouet.net link below. If you want to
+unpack it without diving into ASM code you can use Python scripts
+in the KKrunchy folder for unpacking.
 
 I want to explicitly mention that this is not my original work,
 and it was originally created by the Farbrausch team.
